@@ -1,5 +1,5 @@
 ---
-title: "湖州话俚语"
+title: "湖州话词典"
 excerpt_separator: "<!--more-->"
 categories:
   - Mixed混合
